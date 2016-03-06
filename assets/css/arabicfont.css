@@ -1,3 +1,8 @@
+@font-face {
+   font-family: myFirstFont;
+   src: url('../fonts/gesstwolight.otf');
+}
+
 body {
-    font-family: "GE SS two";
+   font-family: myFirstFont;
 }
