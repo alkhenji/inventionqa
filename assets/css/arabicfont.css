@@ -3,6 +3,6 @@
    src: url('../fonts/gesstwolight.otf');
 }
 
-body {
+body, input, textarea {
    font-family: myFirstFont;
 }
