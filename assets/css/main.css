@@ -2075,7 +2075,7 @@
 		select:focus,
 		textarea:focus {
 			background: rgba(224, 224, 224, 0.15);
-			border-color: #4eb980;
+			border-color: #FFB500;
 		}
 
 	input[type="text"],
@@ -2575,7 +2575,7 @@
 
 			#header a:hover {
 				border-bottom-color: transparent;
-				color: #4eb980;
+				color: #FFB500;
 			}
 
 		#header strong, #header b {
@@ -2595,7 +2595,7 @@
 		}
 
 		#header .logo {
-			background: #4eb980;
+			background: #FFB500;
 			border-radius: 100%;
 			color: #ffffff;
 			cursor: default;
